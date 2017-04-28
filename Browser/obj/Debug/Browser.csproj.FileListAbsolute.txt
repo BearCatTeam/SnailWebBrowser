@@ -1,0 +1,62 @@
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Browser.exe.config
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Browser.exe
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Browser.pdb
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\obj\Debug\Browser.exe
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\obj\Debug\Browser.pdb
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\obj\Debug\Browser.SnailForm.resources
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\obj\Debug\Browser.FavoriteForm.resources
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Browser.exe.manifest
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Browser.application
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\obj\Debug\Browser.exe.manifest
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\obj\Debug\Browser.application
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\backward.png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\BrowserIcon.ico
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\clearAll (2).png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\clearAll.png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\download.png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\exit.png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\Favorite1.png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\Favorite2 (1).ico
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\Favorite2.ico
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\Favorite2.png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\forward.png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\green_check.png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\history.png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\lookFav.PNG
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\lookFav2.PNG
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\refresh.png
+E:\INFORMATION PROCESSING\Snail\Browser\Browser\bin\Debug\Assets\search.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\backward.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\BrowserIcon.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\clearAll (2).png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\clearAll.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\download.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\exit.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\Favorite1.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\Favorite2 (1).ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\Favorite2.ico
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\Favorite2.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\forward.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\green_check.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\history.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\lookFav.PNG
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\lookFav2.PNG
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\refresh.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Assets\search.png
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Browser.exe.manifest
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Browser.application
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\obj\Debug\Browser.FavoriteForm.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\obj\Debug\Browser.SnailForm.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\obj\Debug\Browser.exe.manifest
+C:\Users\nguye\Desktop\EEIT13EX_IP17_GR26\Exercise 1 - Web Browser\Browser\Browser\obj\Debug\Browser.application
